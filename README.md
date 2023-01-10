@@ -28,7 +28,7 @@ conda create -p venv python==3.7 -y
 2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt 
 3. Get your API key from https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names . Refer section API refence for more details and guidance. 
 4. Open your terminal/command prompt from your project directory and run the main.py by excuting the command pyhton main.py .
-6. Go toyour browser and type http:///127.0.0.1:5000/ in the address bar .
+6. Go to your browser and type http:///127.0.0.1:5000/ in the address bar .
 6. Hurraay! That's it . 
 
 ##### Authors
